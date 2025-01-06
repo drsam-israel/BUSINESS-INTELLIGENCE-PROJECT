@@ -2,6 +2,8 @@
 
 ## INTRODUCTION:
 
+I just wrapped up an exhilarating Business Intelligence project powered by Tableau, and the experience was nothing short of transformative. Diving deep into the dataset, I unleashed the full potential of Tableau’s dynamic capabilities, crafting a tapestry of compelling analyses. Each manipulation of the data unraveled hidden patterns, unveiling a series of actionable business insights. These revelations not only informed strategic recommendations but also illuminated clear pathways for growth.
+
  Objective :
  
  Conduct a comprehensive analysis of the sales dataset to uncover actionable insights that drive data-informed strategic decisions and foster business growth.
