@@ -22,13 +22,21 @@
  ### TASKS:
 
  Perform an in-depth business intelligence analysis encompassing :
+ 
  Countries,
+ 
  Regions,
+ 
  Product Categories,
+ 
  Products,
+ 
  Segments, & Discounts.
+ 
  Outline high-valued customers (Sales >= $ 15,000 )
+ 
  Uncover actionable insights and deliver data-driven strategic recommendations to empower decision-making .
+ 
  Design a visually captivating and interactive Executive Dashboard that highlights key metrics and trends effectively.
 
 #### EXPLORATION & PREPROCESSING
