@@ -41,7 +41,7 @@ I just wrapped up an exhilarating Business Intelligence project powered by Table
  
  Design a visually captivating and interactive Executive Dashboard that highlights key metrics and trends effectively.
 
-#### EXPLORATION & PREPROCESSING
+#### EXPLORATION & PREPROCESSING:
 
  The dataset was explored in Excel Power Query, where its structure was carefully reviewed to determine the number of rows and columns.
  
